@@ -1,0 +1,86 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fswiss\fcharset0 Optima-Regular;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh9740\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs28 \cf0 3 hr: Implementing the rotation (FRLBUD and their reverses)\
+2 hr: Thinking about  how to implement the solving algorithm in Python\
+1 hr: Writing Project Proposal\
+1 hr: Story Board\
+15 mins: Scanning Storyboard to .pdf\
+2 hr: Competitive Analysis\
+\
+11/25:\
+\
+2hr : Coding the first step\
+\
+11/26:\
+\
+1 hr : Finishing the first step (Avg. 16-18 steps by this stage)\
+1.5hr: Finishing the second step (Avg. 70-80 steps by this stage)\
+1 hr : Finishing the third step (Avg. 130 steps by this stage)\
+50 mins: Finishing the fourth step (Avg. 145 steps by this stage)\
+\
+\
+11/27\
+\
+2.5 hr : Finishing the fifth step (Something weird is going on with on particular shape Not 					    finished)\
+\
+11/28\
+\
+1 hr : debugging (Finally find out the bug. List reference is inhumane!!)\
+20 min : Finishing the sixth step (Avg. 165 steps by this stage)\
+1 hr : Finishing the final step (Avg. 170 steps now. Still bugs in it. )\
+\
+11/29\
+4 hr: Honing the solver (Not finished)\
+1hr: Finishing the implementation (Random in some ways is literally the GOD!! )\
+\
+
+\b Implementing the algorithm takes 25.5 hrs in total and yields the result of 165 steps on average.
+\b0 \
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+\
+11/ 30:\
+\
+1.5 hr : draw the front right and top faces of the cubes \
+5 hr: Debugging algorithm (Still bugs, sad\'85.)\
+\
+\
+12/1:\
+\
+6 hr: Coding the Graphics and Interface\
+\
+12/2:\
+\
+3 hr: Continue coding the UI\
+\
+12/4:\
+\
+5 hr: Coding the UI\
+\
+12/5:\
+\
+2.5 hr: Coding the UI\
+\
+12/6 \
+\
+1 hr: Coding the UI\
+\
+12/7\
+\
+4 hr : try to do the cross solver using recursion wrote a framework \
+\
+12/8\
+\
+1 hr finish the cross solver\
+\
+12/9:\
+\
+3hr: Finish the last functionality\
+3 hr: Recording the project video\
+\
+12/10:\
+45 min: Final Wrapping Up. \
+}
